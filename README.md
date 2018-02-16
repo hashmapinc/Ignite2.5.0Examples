@@ -1,3 +1,7 @@
+<img src="https://github.com/hashmapinc/hashmap.github.io/blob/master/images/tempus/TempusLogoBlack2.png" width="910" height="245" alt="Hashmap, Inc Tempus"/>
+
+[![License](http://img.shields.io/:license-Apache%202-blue.svg)](http://www.apache.org/licenses/LICENSE-2.0.txt)
+
 # Exploring upcoming Ignite 2.5.0-snapshot library to stored data in cache with Spark and Flink frameworks.
 
 Contains examples to shared data across spark jobs (dataframes) and across frameworks (flink)
